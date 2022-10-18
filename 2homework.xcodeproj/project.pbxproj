@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		354C7C5828FF117A00AD5F6B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354C7C5728FF117A00AD5F6B /* main.swift */; };
+		354C7C5F28FF11B100AD5F6B /* Animals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354C7C5E28FF11B000AD5F6B /* Animals.swift */; };
+		354C7C6128FF141A00AD5F6B /* Birds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354C7C6028FF141A00AD5F6B /* Birds.swift */; };
+		354C7C6528FF17CE00AD5F6B /* Млекопитющие.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354C7C6428FF17CE00AD5F6B /* Млекопитющие.swift */; };
+		354C7C6928FF1D9900AD5F6B /* Worms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354C7C6828FF1D9900AD5F6B /* Worms.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		354C7C5428FF117A00AD5F6B /* 2homework */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2homework; sourceTree = BUILT_PRODUCTS_DIR; };
 		354C7C5728FF117A00AD5F6B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		354C7C5E28FF11B000AD5F6B /* Animals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animals.swift; sourceTree = "<group>"; };
+		354C7C6028FF141A00AD5F6B /* Birds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Birds.swift; sourceTree = "<group>"; };
+		354C7C6428FF17CE00AD5F6B /* Млекопитющие.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Млекопитющие.swift"; sourceTree = "<group>"; };
+		354C7C6828FF1D9900AD5F6B /* Worms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Worms.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				354C7C5728FF117A00AD5F6B /* main.swift */,
+				354C7C5E28FF11B000AD5F6B /* Animals.swift */,
+				354C7C6428FF17CE00AD5F6B /* Млекопитющие.swift */,
+				354C7C6028FF141A00AD5F6B /* Birds.swift */,
+				354C7C6828FF1D9900AD5F6B /* Worms.swift */,
 			);
 			path = 2homework;
 			sourceTree = "<group>";
@@ -121,6 +133,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				354C7C5828FF117A00AD5F6B /* main.swift in Sources */,
+				354C7C5F28FF11B100AD5F6B /* Animals.swift in Sources */,
+				354C7C6528FF17CE00AD5F6B /* Млекопитющие.swift in Sources */,
+				354C7C6928FF1D9900AD5F6B /* Worms.swift in Sources */,
+				354C7C6128FF141A00AD5F6B /* Birds.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
